@@ -7,3 +7,4 @@ set(CMAKE_CXX_STANDARD 26)
 
 add_executable(day1 solutions/day01.cpp)
 add_executable(day2 solutions/day02.cpp)
+add_executable(day3 solutions/day03.cpp)
