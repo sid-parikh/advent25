@@ -1,6 +1,4 @@
-
 #include <cmath>
-#include <cstdio>
 #include <iostream>
 #include <ranges>
 #include <string>
